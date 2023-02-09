@@ -1,4 +1,7 @@
 .say-hello {
   color: green;
-  background-color: blue;
+  background-color: red;
+}
+.body-background {
+  background-color: #424549;
 }
